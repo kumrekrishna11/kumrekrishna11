@@ -1,23 +1,19 @@
-## 👋 Hi, I'm Krishna Kumre
+# Hi, I'm Krishna 👋
 
-🌱 Frontend Developer (Learning Phase)  
-💻 Working with HTML, CSS, JavaScript  
-🎯 Goal: Build real-world projects & grow as a developer  
+I'm a frontend developer in progress, currently learning and building projects using:
 
----
+- HTML
+- CSS
+- JavaScript
 
-### 🛠️ Skills
-- HTML5  
-- CSS3  
-- JavaScript (Beginner)  
----
+### 🚀 What I'm doing
+- Building real-world web projects
+- Improving UI/UX skills
+- Learning JavaScript step by step
 
-### 🚀 Currently Learning
-- JavaScript  
-- Responsive Design  
-- Git & GitHub  
+### 📌 Goals
+- Become a full-stack developer
+- Work on meaningful projects
+- Collaborate with other developers
 
----
-
-### 📫 Connect
-- GitHub: @kumrekrishna11
+Thanks for visiting my profile 🙂
