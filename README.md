@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Krishna Kumre
 
-<!--
-**kumrekrishna11/kumrekrishna11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Frontend Developer (Learning Phase)  
+💻 Working with HTML, CSS, JavaScript  
+🎯 Goal: Build real-world projects & grow as a developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML5  
+- CSS3  
+- JavaScript (Beginner)  
+---
+
+### 🚀 Currently Learning
+- JavaScript  
+- Responsive Design  
+- Git & GitHub  
+
+---
+
+### 📫 Connect
+- GitHub: @kumrekrishna11
